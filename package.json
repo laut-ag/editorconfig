@@ -1,0 +1,14 @@
+{
+  "name": "lauteditorconfig",
+  "version": "1.0.0",
+  "description": "laut.fm editor config",
+  "scripts": {
+      "postinstall": "cp .editorconfig $INIT_CWD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.laut.ag:10022/Vern/editorconfig.git"
+  },
+  "author": "",
+  "license": "MIT"
+}

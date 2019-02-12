@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "laut.fm editor config",
   "scripts": {
-      "postinstall": "./bootstrap.sh $INIT_CWD"
+    "postinstall": "./bootstrap.sh $INIT_CWD"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.laut.ag:10022/Vern/editorconfig.git"
+    "url": "ssh://git@git.laut.ag:10022/laut.fm/editorconfig.git"
   },
   "author": "",
   "license": "MIT"

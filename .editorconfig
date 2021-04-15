@@ -23,4 +23,4 @@ indent_style = space
 indent_size = 4
 
 [{Makefile,makefile}]
-intend_style = tab
+indent_style = tab
